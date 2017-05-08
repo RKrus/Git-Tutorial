@@ -1,1 +1,1 @@
-# Git-Tutorial For Rose
+# Git-Tutorial For Rose by Greg
